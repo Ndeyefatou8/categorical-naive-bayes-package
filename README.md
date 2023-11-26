@@ -60,7 +60,7 @@ The "Predict" page allows you to utilize the trained Naive Bayes model. Export t
 ![prdict1](https://github.com/Ndeyefatou8/NaivebayesCategorial/assets/105281151/b9cc07c5-65d6-407d-b41c-4660cdd5aba4)
 
 
-You can also see at the same timethe probabilities of class memberships: 
+You can also see at the same timethe probabilities of class memberships  allows you to calculate the probabilties of belonging to each class for each observation. This is calculated using the test dataset generated before: 
 
 ![PREDICT2](https://github.com/Ndeyefatou8/NaivebayesCategorial/assets/105281151/cf6268ea-41a1-4483-8ed5-5760dae43d31)
 
