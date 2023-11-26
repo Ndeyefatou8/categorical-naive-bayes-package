@@ -33,6 +33,8 @@ library(packagenaivebayes)
 
 ### 3. Shiny App Structure
 
+The application is disponible on shinyapp.io ([lien][(https://categoricalnaivebayes.shinyapps.io/shinynaivebayes/)]
+
 The pages are avalaible on the menu bar on the left: 
 
 1. Home:
