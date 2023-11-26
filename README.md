@@ -14,11 +14,14 @@ Before we begin, make sure to install the necessary R packages using the followi
 ## Package Installation
 
 You can install this package directly from github
-```library(devtools) # Make sure that the devtools library is loaded
 ```
+library(devtools) # Make sure that the devtools library is loaded
+```
+
 ```
 install_github("arthurparmentier99/categorical-naive-bayes-package", dependencies = TRUE);
 ```
+
 ```
 install.packages("devtools")
 ```
