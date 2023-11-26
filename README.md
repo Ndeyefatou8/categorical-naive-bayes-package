@@ -11,12 +11,21 @@ This project is part of our training in Data Science at the University of Lyon 2
 
 Before we begin, make sure to install the necessary R packages using the following commands. These packages play essential roles in developing our Shiny app:
 
-library(devtools) # Make sure that the devtools library is loaded
+## Package Installation
+
+You can install this package directly from github
+```library(devtools) # Make sure that the devtools library is loaded
+```
+```
 install_github("arthurparmentier99/categorical-naive-bayes-package", dependencies = TRUE);
-install.packages(c("shiny", "shinydashboardPlus", "rvest", "DT", "dplyr", "plotly", "ggplot2", "readxl", "glmnet", "shinyjs"))
-install.packages("shinydashboard", type = "source")
+```
+```
 install.packages("devtools")
+```
+
+```
 library(packagenaivebayes)
+```
 
 
 ### 3. Shiny App Structure
